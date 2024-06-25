@@ -685,7 +685,7 @@ video {
 }
 
 .z-\[-\] {
-  z-index: -;
+  z-index: -1;
 }
 
 .z-0 {
@@ -693,7 +693,7 @@ video {
 }
 
 .z-\[\] {
-  z-index: ;
+  z-index: 1;
 }
 
 .z-\[100\] {
@@ -815,7 +815,7 @@ video {
 }
 
 .mt-\[\] {
-  margin-top: ;
+  margin-top: 1;
 }
 
 .mt-\[-1\] {
